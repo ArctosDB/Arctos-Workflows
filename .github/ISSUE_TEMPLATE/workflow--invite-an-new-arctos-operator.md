@@ -35,4 +35,4 @@ assignees: ''
  - [ ]  provide access to the appropriate collection(s)
  - [ ] ALL operators should be assigned the role coldfusion_user
  - [ ] assign other roles as needed - PLEASE ensure that any operator is aware of documentation for all shared data roles!
- - [ ] email the new operator to let them know they re ready to begin work in Arctos
+ - [ ] email the new operator to let them know they are ready to begin work in Arctos
