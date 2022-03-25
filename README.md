@@ -1,4 +1,4 @@
-# Arctos-Workflows
+# Arctos Workflows
 Standard Arctos tasks broken down into manageable steps
 
 ## Purpose of this Repo
