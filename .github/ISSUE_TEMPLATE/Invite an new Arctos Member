@@ -1,7 +1,7 @@
 ---
 name: 'Workflow: Invite an new Arctos Member'
 about: This issue lists the steps required to add a new Arctos Member when they are being added outside of the original sign up of an institution (new staff, staff changes etc).
-title: "[Arctos Operator]"
+title: "[Arctos Member]"
 labels: ''
 assignees: ''
 
