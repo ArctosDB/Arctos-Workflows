@@ -14,7 +14,7 @@ assignees: ''
 2. Does the person have an Arctos Login that conforms to the specifications [here](https://handbook.arctosdb.org/how_to/How-to-Create-your-Arctos-Team-Users-and-Operators.html#1-have-each-team-member-create-an-arctos-user-account)?
     - [ ] YES - Add their Arctos username to their Agent as name type = login.
     NO
-    - [ ] Follow the Workflow: Invite an new Arctos Operator [here](https://github.com/ArctosDB/new-collections/issues/new/choose)
+    - [ ] Follow the Workflow: Invite a new Arctos Operator [here](https://github.com/ArctosDB/new-collections/issues/new/choose)
     - [ ] Once the above is finished, Move to step 3
 
 3. Ping the Membership Chair (lin-fred) to add the person to the needed Groups
