@@ -53,3 +53,17 @@ assignees: ''
 - [ ] if lat/long or UTM coordinates are provided, replace the county-level coordinates of the public locality with those given.
 - [ ] In georeference source record original coordinate and methods used to convert or georeference
 - Click "Save Edits"
+
+**Add locality attributes**
+- [ ] Access
+    - Value = private
+    - Determiner = Collections Manager
+    - Date = data entry date
+- [ ] Landholder
+    - If private, put name of private landholder in remarks.
+- [ ] TRS Township
+- [ ] TRS Range
+- [ ] TRS Section
+- [ ] TRS Aliquot
+    - Value = verbatim aliquot
+
