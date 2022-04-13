@@ -13,7 +13,7 @@ assignees: ''
  - [ ] Click Save.
 
 **Edit the public locality**:
- - [ ] Locality Nickname - enter the NMMNH Paleo locality number entered in the format **NMMNH:Paleo:L-X_public** where X is the locality number.
+ - [ ] Locality Nickname - enter the NMMNH Paleo locality number entered in the format "NMMNH:Paleo:L-#_public" where # is the locality number.
  - [ ] Specific Locality - enter "Specific locality encumbered"
  - [ ] Under Coordinates, select "polygon" and "use geography spatial data for locality"
  - [ ] Enter "geography spatial data" for georeference source, WGS 84 for datum, and "not recorded" for georeference protocol.
@@ -22,7 +22,7 @@ assignees: ''
 **Add locality attributes**:
  - [ ] Site Identifier(s) - localities may have multiple identifiers, enter as many as necessary.
      - NMMNH Locality Number
-       - Value = NMMNH L-X (where X is the locality number)
+       - Value = NMMNH L-#
        - Determiner = New Mexico Museum of Natural History and Science
        - Date = date entered into locality ledger
      - Site Collector Number(s)
@@ -48,7 +48,7 @@ assignees: ''
 **Edit the research locality**
 - [ ] Add USGS 7.5 or 15 minute topographic map to geography
 - [ ] Add specific locality
-- [ ] Change locality name to "NMMNH:Paleo:L-X"
+- [ ] Change locality name to "NMMNH:Paleo:L-#"
 - [ ] If applicable, enter accession number into locality remarks
 - [ ] if lat/long or UTM coordinates are provided, replace the county-level coordinates of the public locality with those given.
 - [ ] In georeference source record original coordinate and methods used to convert or georeference
