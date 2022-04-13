@@ -32,18 +32,18 @@ assignees: ''
      - Determiner = Arctos Agent name of person who found the site
      - Date = Date the site was found in the format YYYY-MM-DD
  
-**Chronostratigraphy** The most precise known level of chronostratigraphy should be chosen. Chronostratigraphy is hierarchical, so only the most precise value is required.
+- [ ] Chronostratigraphy - The most precise known level of chronostratigraphy should be chosen. Chronostratigraphy is hierarchical, so only the most precise value is required.
 
-**Informal Chronostratigraphy** Any chronostratigraphy not on the international chronostratigraphic chart should be entered here.
+- [ ] Informal Chronostratigraphy - Any chronostratigraphy not on the international chronostratigraphic chart should be entered here.
  
-**Lithostratigraphy** An attribute should be created for all given stratigraphic layers.
+- [ ] Lithostratigraphy - An attribute should be created for all given stratigraphic layers.
  
-**Biostratigraphy** An attribute should be created for all given biostratigraphy stratigraphic layers.
+- [ ] Biostratigraphy - An attribute should be created for all given biostratigraphy stratigraphic layers.
 
-**Geology Remarks** Enter verbatim all geological observations that don't fit the above attributes. This includes descriptions of stratigraphy, lithology, etc.
+- [ ] Geology Remarks - Enter verbatim all geological observations that don't fit the above attributes. This includes descriptions of stratigraphy, lithology, etc.
 
-**Landholder** pick the landowner/administrator from the dropdown list.
+- [ ] Landholder - pick the landowner/administrator from the dropdown list.
 
-**Biota Remarks**
- - One entry should just have fossil types, fully spelled out, separated by semicolon (no space), in the order listed on the locality sheet.
- - The other entry should be any summary description of specimens provided.
+- [ ] Biota Remarks
+    - One entry should just have fossil types, fully spelled out, separated by semicolon (no space), in the order listed on the locality sheet.
+    - The other entry should be any summary description of specimens provided.
