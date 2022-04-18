@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-**Create the public locality**: from the main menu select [Manage Data > Location > Create Locality](https://arctos.database.museum/Locality.cfm?action=newLocality).
+**Create the public locality**: from the main menu select [Manage Data > Location > Create Locality](https://arctos.database.museum/editLocality.cfm?action=newLocality).
  - [ ] Use pick geography to select the county-level geography.
  - [ ] In Specific Locality enter **Specific locality encumbered**.
  - [ ] Click Save.
