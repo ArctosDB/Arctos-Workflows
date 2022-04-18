@@ -14,6 +14,7 @@ assignees: ''
 
 **Edit the public locality**:
  - [ ] Locality Nickname - enter the NMMNH Paleo locality number entered in the format "NMMNH:Paleo:L-#_public" where # is the locality number.
+ - [ ] Save
  - [ ] Specific Locality - enter "Specific locality encumbered"
  - [ ] Under Coordinates, select "polygon" and "use geography spatial data for locality"
  - [ ] Enter "geography spatial data" for georeference source, WGS 84 for datum, and "not recorded" for georeference protocol.
