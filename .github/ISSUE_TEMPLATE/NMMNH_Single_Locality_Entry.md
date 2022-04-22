@@ -1,7 +1,7 @@
 ---
 name: 'NMMNH Single Locality Entry'
 about: This issue lists the steps required to add a new locality for the New Mexico Museum of Natural History and Science Paleontology Collection
-title: "[NMMNH Paleo Locality]"
+title: "NMMNH Paleo Locality"
 labels: ''
 assignees: ''
 
