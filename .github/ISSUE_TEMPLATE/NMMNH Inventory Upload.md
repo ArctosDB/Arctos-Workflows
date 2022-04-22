@@ -32,3 +32,5 @@ Almost all specimens are stored in one location. We can use this fact to catch i
 
 **Move Containers**
 - [ ] Use [batch scan](https://arctos.database.museum/batchScan.cfm?action=loadCSV) to move the new containers into their parent containers. Use the create containers file to create the move containers file.
+
+**Move Parts into Containers**
