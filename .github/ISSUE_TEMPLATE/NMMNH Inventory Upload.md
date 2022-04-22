@@ -7,4 +7,8 @@ assignees: ''
 
 ---
 
-[ ] **Transcribe the inventory** if it isn't already typed.
+**Transcribe the inventory**
+- [ ]  Enter the data into excel if it isn't already typed (all catalog numbers in one column, all disposition in the next column)
+
+**Check for Discrepencies**
+- [ ] 
