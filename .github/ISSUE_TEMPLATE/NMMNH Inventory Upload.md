@@ -26,3 +26,9 @@ Almost all specimens are stored in one location. We can use this fact to catch i
 - [ ] Correct the inventory/object tracking
    - Update either Arctos or the inventory sheet, depending on what was found in the previous step
    - Reconcile specimens in two locations by moving specimens to one drawer, recording separate part locations, or fixing mislabeled or double-cataloged specimens.
+
+**Create Containers**
+- [ ] Use [bulkload container tool](https://arctos.database.museum/tools/create_container.cfm?action=ld). Use the previous upload file as a template. Before filling in the barcodes, check to make sure the next barcode is open.
+
+**Move Containers**
+- [ ] Use [batch scan](https://arctos.database.museum/batchScan.cfm?action=loadCSV) to move the new containers into their parent containers. Use the create containers file to create the move containers file.
