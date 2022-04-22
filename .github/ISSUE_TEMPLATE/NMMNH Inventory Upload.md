@@ -17,4 +17,10 @@ Almost all specimens are stored in one location. We can use this fact to catch i
 - [ ] Check for discrepancies in the database.
    - Use [make comma list](https://arctos.database.museum/DataServices/listerizer.cfm) to [search](https://arctos.database.museum/nmmnh_paleo) for all specimens in the inventory.
 - [ ] Compile all discrepancies into an excel sheet and print.
-   - 
+   - The catalog numbers should be in the first column, the next columns should have the potential storage locations of the specimens
+- [ ] Physically check for the storage location of each specimen.
+   - Can be done by a student/volunteer
+   - Have them circle the correct storage location
+   - Have them report anything odd to you, such as a specimen in two locations
+   - Pull old check out tags for specimens that are found in another location
+- [ ] 
