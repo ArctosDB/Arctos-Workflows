@@ -23,4 +23,6 @@ Almost all specimens are stored in one location. We can use this fact to catch i
    - Have them circle the correct storage location
    - Have them report anything odd to you, such as a specimen in two locations
    - Pull old check out tags for specimens that are found in another location
-- [ ] 
+- [ ] Correct the inventory/object tracking
+   - Update either Arctos or the inventory sheet, depending on what was found in the previous step
+   - Reconcile specimens in two locations by moving specimens to one drawer, recording separate part locations, or fixing mislabeled or double-cataloged specimens.
