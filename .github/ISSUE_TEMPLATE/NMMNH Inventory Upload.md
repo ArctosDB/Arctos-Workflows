@@ -54,4 +54,4 @@ Almost all specimens are stored in one location. We can use this fact to catch i
 **Update remarks and disposition**
 - [ ] Update disposition and specimen remarks for specimens missing or with old check out tags.
    - Green tag: enter "“old green check out tag” into SPECIMEN remark. Update disposition to "on loan"
-   - Missing: Update disposition to "missing"
+   - Missing: Update disposition to "missing", add remark about inventory.
