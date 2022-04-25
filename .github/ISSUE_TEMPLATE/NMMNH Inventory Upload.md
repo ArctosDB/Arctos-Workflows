@@ -34,3 +34,24 @@ Almost all specimens are stored in one location. We can use this fact to catch i
 - [ ] Use [batch scan](https://arctos.database.museum/batchScan.cfm?action=loadCSV) to move the new containers into their parent containers. Use the create containers file to create the move containers file.
 
 **Move Parts into Containers**
+- [ ] Download the template from [bulkload parts into containers](https://arctos.database.museum/tools/BulkloadPartContainer.cfm?action=ld).
+- [ ] Add part IDs and barcodes to the the template.
+   - Open the inventory and create container spreadsheets.
+   - For each drawer:
+      - Copy the drawer barcode into the template spreadsheet.
+      - Copy the catalog numbers in that drawer.
+      - Create a [comma list](https://arctos.database.museum/DataServices/listerizer.cfm) of the catalog numbers.
+      - Copy the catalog numbers into [find container](https://arctos.database.museum/findContainer.cfm) and check that nothing is already in a container.
+      - Copy the catalog numbers into [search](https://arctos.database.museum/nmmnh_paleo). Check that the number of specimens is correct.
+      - Download parts list
+      - Copy the part IDs into the template spreadsheet.
+      - Fill down the barcodes.
+- [ ] After adding all drawers, bulkload the template to [bulkload parts into containers](https://arctos.database.museum/tools/BulkloadPartContainer.cfm?action=ld).
+
+**Add to Project**
+- [ ] Create a [comma list](https://arctos.database.museum/DataServices/listerizer.cfm) of all specimens and add them to the [Inventory Project](https://arctos.database.museum/project/10003513)
+
+**Update remarks and disposition**
+- [ ] Update disposition and specimen remarks for specimens missing or with old check out tags.
+   - Green tag: enter "“old green check out tag” into SPECIMEN remark. Update disposition to "on loan"
+   - Missing: Update disposition to "missing"
