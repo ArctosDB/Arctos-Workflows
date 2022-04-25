@@ -31,7 +31,7 @@ Almost all specimens are stored in one location. We can use this fact to catch i
 - [ ] Use [bulkload container tool](https://arctos.database.museum/tools/create_container.cfm?action=ld). Use the previous upload file as a template. Before filling in the barcodes, check to [make sure the next barcode is open](https://arctos.database.museum/findContainer.cfm).
 
 **Move Containers**
-- [ ] Use [batch scan](https://arctos.database.museum/batchScan.cfm?action=loadCSV) to move the new containers into their parent containers. Use the create containers file to create the move containers file.
+- [ ] Use [batch scan](https://arctos.database.museum/batchScan.cfm?action=loadCSV) to move the new containers into their parent containers. Use the create containers file to create the move containers file. Before uploading, open the file in notepad and delete the last blank line.
 
 **Move Parts into Containers**
 - [ ] Download the template from [bulkload parts into containers](https://arctos.database.museum/tools/BulkloadPartContainer.cfm?action=ld).
