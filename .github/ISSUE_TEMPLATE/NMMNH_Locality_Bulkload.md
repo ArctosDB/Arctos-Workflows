@@ -15,6 +15,7 @@ assignees: ''
    - [ ] Fill in coordinates
    - [ ] Add accession number in remarks if applicable
    - [ ] In georeference source record original coordinate and methods used to convert or georeference
+   - [ ] In georeference protocol fill in "not recorded"
    - [ ] Save as csv and load
 
 **Bulkload the Locality Access Attribute**: from the main menu select [Enter Data > Batch Tools > Locality/Event/Geography > Bulkload Locality Attributes](https://arctos.database.museum/tools/bulkloadLocalityAttributes.cfm). Have this file prepared and ready to go as soon as the localities finish uploading.
