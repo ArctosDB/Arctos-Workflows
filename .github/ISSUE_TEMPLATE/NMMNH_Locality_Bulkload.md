@@ -17,7 +17,7 @@ assignees: ''
    - [ ] In georeference source record original coordinate and methods used to convert or georeference
    - [ ] Save as csv and load
 
-**Bulkload the Locality Access Attribute**: from the main menu select [Enter Data > Batch Tools > Locality/Event/Geography > Bulkload Locality Attributes](https://arctos.database.museum/tools/bulkloadLocalityAttributes.cfm). Do have this file prepared and ready to go as soon as the localities finish uploading.
+**Bulkload the Locality Access Attribute**: from the main menu select [Enter Data > Batch Tools > Locality/Event/Geography > Bulkload Locality Attributes](https://arctos.database.museum/tools/bulkloadLocalityAttributes.cfm). Have this file prepared and ready to go as soon as the localities finish uploading.
    - [ ] Download template and save as an excel file
    - [ ] Copy locality names into the locality names field
    - [ ] fill in "locality access" for attribute_type
