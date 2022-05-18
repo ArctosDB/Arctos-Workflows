@@ -1,6 +1,6 @@
 ---
 name: 'NMMNH Locality Bulkload'
-about: This issue lists the steps required to bulkload new localities for the New Mexico Museum of Natural History and Science Paleontology Collection. Best used for a sequential group of localities with similar data.
+about: Steps required to bulkload new localities for the New Mexico Museum of Natural History and Science Paleontology Collection. Best used for a sequential group of localities with similar data.
 title: "NMMNH Paleo Localitis"
 labels: ''
 assignees: ''
