@@ -35,3 +35,27 @@ Immediately **Bulkload the Locality Access Attribute**: from the main menu selec
    - [ ] In Locality Name Search for State, County (no specific locality) to find a georeferenced, whole-county locality
    - [ ] Copy the coordinates, uncertainty radius, and georeference source from this locality into the bulkload file for public localities in this county.
    - [ ] Save as csv and load
+
+**Bulkload Locality Attributes**
+   - [ ] Download [template](https://arctos.database.museum/tools/bulkloadLocalityAttributes.cfm?action=ld) and save as an excel file
+   - For Attributes shared by public and research localities each attribute will be entered twice, once under the research locality name and once under the public locality name
+     - [ ] Site Identifier(s) - localities may have multiple identifiers, enter as many as necessary.
+        - NMMNH Locality Number
+          - Value = NMMNH L-#
+          - Determiner = New Mexico Museum of Natural History and Science
+          - Date = date entered into locality ledger
+        - Site Collector Number(s)
+     - [ ] Site Found - enter one attribute for the person and one attribute for the date. If more than one person found the site, add an attribute for each person. 
+        - Value = verbatim name of person who found the site
+        - Value = verbatim site found date
+        - Determiner = Arctos Agent name of person who found the site
+        - Date = Date the site was found in the format YYYY-MM-DD 
+     - [ ] Chronostratigraphy - The most precise known level of chronostratigraphy should be chosen. Chronostratigraphy is hierarchical, so only the most precise value is required.
+     - [ ] Informal Chronostratigraphy - Any chronostratigraphy not on the international chronostratigraphic chart should be entered here. 
+     - [ ] Lithostratigraphy - An attribute should be created for all given stratigraphic layers.
+     - [ ] Biostratigraphy - An attribute should be created for all given biostratigraphy stratigraphic layers.
+     - [ ] Geology Remarks - Enter verbatim all geological observations that don't fit the above attributes. This includes descriptions of stratigraphy, lithology, etc.
+     - [ ] Landholder - pick the landowner/administrator from the dropdown list.
+     - [ ] Biota Remarks
+       - One entry should just have fossil types, fully spelled out, separated by semicolon (no space), in the order listed on the locality sheet.
+       - The other entry should be any summary description of specimens provided.
