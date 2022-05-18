@@ -59,3 +59,11 @@ assignees: ''
      - [ ] Biota Remarks
        - One entry should just have fossil types, fully spelled out, separated by semicolon (no space), in the order listed on the locality sheet.
        - The other entry should be any summary description of specimens provided.
+   - For Attributes used only by research localities each attribute will only be entered once under the research locality name.
+     - [ ] Landholder
+       - If private, put name of private landholder in remarks.
+     - [ ] TRS Township
+     - [ ] TRS Range
+     - [ ] TRS Section
+     - [ ] TRS Aliquot
+       - Value = verbatim aliquot
