@@ -1,6 +1,6 @@
 ---
 name: 'NMMNH Locality Bulkload'
-about: This issue lists the steps required to bulkload new localities for the New Mexico Museum of Natural History and Science Paleontology Collection
+about: This issue lists the steps required to bulkload new localities for the New Mexico Museum of Natural History and Science Paleontology Collection. Best used for a sequential group of localities with similar data.
 title: "NMMNH Paleo Localitis"
 labels: ''
 assignees: ''
@@ -33,4 +33,5 @@ Immediately **Bulkload the Locality Access Attribute**: from the main menu selec
    - [ ] Delete coordinates
    - [ ] Go to [Find Localities](https://arctos.database.museum/place.cfm?sch=locality)
    - [ ] In Locality Name Search for State, County (no specific locality) to find a georeferenced, whole-county locality
-   - [ ] Copy the coordinates and uncertainty radius from this locality into the bulkload file for public localities in this county.
+   - [ ] Copy the coordinates, uncertainty radius, and georeference source from this locality into the bulkload file for public localities in this county.
+   - [ ] Save as csv and load
