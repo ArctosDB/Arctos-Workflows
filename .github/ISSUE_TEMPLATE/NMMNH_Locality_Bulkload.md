@@ -26,4 +26,11 @@ Immediately **Bulkload the Locality Access Attribute**: from the main menu selec
    - [ ] fill in the current date for determined_date
    - [ ] Save as csv and load
 
-**Bulkload the public research localities
+**Bulkload the public research localities**
+   - [ ] Open the research localities bulkoad excel file and save as a new file
+   - [ ] Use "NMMNH:Paleo:L-#_public" in the locality_name column
+   - [ ] fill in "Specific locality encumbered" in specific locality
+   - [ ] Delete coordinates
+   - [ ] Go to [Find Localities](https://arctos.database.museum/place.cfm?sch=locality)
+   - [ ] In Locality Name Search for State, County (no specific locality) to find a georeferenced, whole-county locality
+   - [ ] Copy the coordinates and uncertainty radius from this locality into the bulkload file for public localities in this county.
