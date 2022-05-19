@@ -13,6 +13,7 @@ assignees: ''
    - [ ] Use "NMMNH:Paleo:L-#" in the locality_name column
    - [ ] Fill in specific locality
    - [ ] Fill in coordinates
+   - [ ] Fill in maximum error distance and units (15 meters for GPS)
    - [ ] Add accession number in remarks if applicable
    - [ ] In georeference source record original coordinate and methods used to convert or georeference
    - [ ] In georeference protocol fill in "not recorded"
