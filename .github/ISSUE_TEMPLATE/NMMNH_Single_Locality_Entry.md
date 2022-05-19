@@ -51,6 +51,7 @@ assignees: ''
 - [ ] Change locality name to "NMMNH:Paleo:L-#"
 - [ ] If applicable, enter accession number into locality remarks
 - [ ] if lat/long or UTM coordinates are provided, replace the county-level coordinates of the public locality with those given.
+- [ ] Add maximum error distance and units (15 meters for GPS)
 - [ ] In georeference source record original coordinate and methods used to convert or georeference
 - Click "Save Edits"
 
