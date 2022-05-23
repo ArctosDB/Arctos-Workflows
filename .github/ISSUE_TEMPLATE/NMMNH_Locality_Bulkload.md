@@ -17,6 +17,7 @@ assignees: ''
    - [ ] Add accession number in remarks if applicable
    - [ ] In georeference source record original coordinate and methods used to convert or georeference
    - [ ] In georeference protocol fill in "not recorded"
+   - [ ] In use_geography_polygon fill in "false"
    - [ ] Save as csv and load
 
 **Bulkload the Locality Access Attribute**: from the main menu select [Enter Data > Batch Tools > Locality/Event/Geography > Bulkload Locality Attributes](https://arctos.database.museum/tools/bulkloadLocalityAttributes.cfm). Have this file prepared and ready to go as soon as the localities finish uploading.
@@ -33,9 +34,7 @@ assignees: ''
    - [ ] Use "NMMNH:Paleo:L-#_public" in the locality_name column
    - [ ] fill in "Specific locality encumbered" in specific locality
    - [ ] Delete coordinates
-   - [ ] Go to [Find Localities](https://arctos.database.museum/place.cfm?sch=locality)
-   - [ ] In Locality Name Search for State, County (no specific locality) to find a georeferenced, whole-county locality
-   - [ ] Copy the coordinates, uncertainty radius, and georeference source from this locality into the bulkload file for public localities in this county.
+   - [ ] In use_geography_polygon fill in "true"
    - [ ] Save as csv and load
 
 **Bulkload Locality Attributes**
