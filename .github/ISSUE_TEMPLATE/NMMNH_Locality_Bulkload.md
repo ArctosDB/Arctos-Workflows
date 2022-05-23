@@ -31,10 +31,10 @@ assignees: ''
 
 **Bulkload the public research localities**
    - [ ] Open the research localities bulkoad excel file and save as a new file
-   - [ ] Use "NMMNH:Paleo:L-#_public" in the locality_name column
-   - [ ] fill in "Specific locality encumbered" in specific locality
-   - [ ] Delete coordinates and remarks
-   - [ ] In georeference source fill in "geography spatial data"
+   - [ ] Replace locality name with "NMMNH:Paleo:L-#_public"
+   - [ ] Replace specific locality with "Specific locality encumbered"
+   - [ ] Delete coordinate data and remarks
+   - [ ] Replace georeference source with "geography spatial data"
    - [ ] In use_geography_polygon fill in "true"
    - [ ] Save as csv and load
 
