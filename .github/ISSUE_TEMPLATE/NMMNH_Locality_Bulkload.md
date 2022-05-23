@@ -33,7 +33,7 @@ assignees: ''
    - [ ] Open the research localities bulkoad excel file and save as a new file
    - [ ] Use "NMMNH:Paleo:L-#_public" in the locality_name column
    - [ ] fill in "Specific locality encumbered" in specific locality
-   - [ ] Delete coordinates
+   - [ ] Delete coordinates and remarks
    - [ ] In use_geography_polygon fill in "true"
    - [ ] Save as csv and load
 
