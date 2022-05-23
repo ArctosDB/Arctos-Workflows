@@ -31,6 +31,7 @@ assignees: ''
 
 **Bulkload the public research localities**
    - [ ] Open the research localities bulkoad excel file and save as a new file
+   - [ ] Remove quadrangle from the higher geography string.
    - [ ] Replace locality name with "NMMNH:Paleo:L-#_public"
    - [ ] Replace specific locality with "Specific locality encumbered"
    - [ ] Delete coordinate data and remarks
