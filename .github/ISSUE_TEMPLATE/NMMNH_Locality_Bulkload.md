@@ -34,7 +34,7 @@ assignees: ''
    - [ ] Use "NMMNH:Paleo:L-#_public" in the locality_name column
    - [ ] fill in "Specific locality encumbered" in specific locality
    - [ ] Delete coordinates and remarks
-   - [ ] In georeference protocol fill in "geography spatial data"
+   - [ ] In georeference source fill in "geography spatial data"
    - [ ] In use_geography_polygon fill in "true"
    - [ ] Save as csv and load
 
