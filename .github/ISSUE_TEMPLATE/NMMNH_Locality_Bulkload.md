@@ -58,7 +58,7 @@ assignees: ''
      - [ ] Lithostratigraphy - An attribute should be created for all given stratigraphic layers. Attribute types are "lithostratigraphic group", "lithostratigraphic formation", and "lithostratigraphic member".
      - [ ] Biostratigraphy - An attribute should be created for all given biostratigraphy stratigraphic layers. Attribute types are "biochron" and "biostratigraphic zone"
      - [ ] "geology remarks" - Enter verbatim all geological observations that don't fit the above attributes. This includes descriptions of stratigraphy, lithology, etc.
-     - [ ] "landholder" - pick the landowner/administrator from the dropdown list.
+     - [ ] "landholder" - pick the landowner/administrator from the code table list.
      - [ ] "biota remarks"
        - One entry should just have fossil types, fully spelled out, separated by semicolon (no space), in the order listed on the locality sheet.
        - The other entry should be any summary description of specimens provided. PUT IN QUOTES so biota remarks can be separated when they are concatonated in data download
