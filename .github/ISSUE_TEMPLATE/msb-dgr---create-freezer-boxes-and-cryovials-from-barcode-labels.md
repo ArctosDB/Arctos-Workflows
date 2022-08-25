@@ -3,7 +3,7 @@ name: MSB DGR - create freezer boxes and cryovials from barcode labels
 about: The following workflow describes the MSB DGR process for designating barcode
   labels as a particular container type in Arctos.
 title: MSB DGR - create freezer boxes and cryovials from barcode labels
-labels: ''
+labels: MSB, Object Tracking
 assignees: ''
 
 ---
