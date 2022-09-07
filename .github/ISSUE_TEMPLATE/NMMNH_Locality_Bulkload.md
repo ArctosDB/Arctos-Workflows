@@ -33,7 +33,6 @@ assignees: ''
 
 **[Bulkload](https://arctos.database.museum/tools/bulkloadLocality.cfm?action=ld) the public research localities**
    - [ ] Open the research localities bulkoad excel file and save as a new file
-   - [ ] Remove quadrangle from the higher geography string.
    - [ ] Replace locality name with "NMMNH:Paleo:L-#_public"
    - [ ] Replace specific locality with "Specific locality encumbered"
    - [ ] Delete coordinate data and remarks
@@ -65,6 +64,7 @@ assignees: ''
        - One entry should just have fossil types, fully spelled out, separated by semicolon (no space), in the order listed on the locality sheet.
        - The other entry should be any summary description of specimens provided. PUT IN QUOTES so biota remarks can be separated when they are concatonated in data download
    - For Attributes used only by research localities each attribute will only be entered once under the research locality name.
+     - [ ] USGS 7.5 or 15 minute topographic map
      - [ ] Landholder
        - If private, put name of private landholder in remarks.
      - [ ] "TRS township"
