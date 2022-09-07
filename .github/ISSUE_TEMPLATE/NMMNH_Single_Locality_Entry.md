@@ -47,7 +47,6 @@ assignees: ''
 - [ ] Clone the public locality
 
 **Edit the research locality**
-- [ ] Add USGS 7.5 or 15 minute topographic map to geography
 - [ ] Add specific locality
 - [ ] Change locality name to "NMMNH:Paleo:L-#"
 - [ ] If applicable, enter accession number into locality remarks
@@ -61,6 +60,7 @@ assignees: ''
     - Value = private
     - Determiner = Collections Manager
     - Date = data entry date
+- [ ] USGS 7.5 or 15 minute topographic map
 - [ ] Landholder
     - If private, put name of private landholder in remarks.
 - [ ] TRS Township
