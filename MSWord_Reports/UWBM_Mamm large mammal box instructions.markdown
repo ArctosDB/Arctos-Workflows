@@ -10,7 +10,7 @@ To create labels using the UWBM_mammal_box_large_csv report and its associated M
 6. Select Options, Remove Data/Header Source. 
 7. After the document opens, from the main Word menu select Mailings, then Select Recipients, Use an Existing List 
 8. Browse to the file downloaded from Arctos and select open 
-9. Encoding should be Unicode UTF-8 
+9. Encoding should be Unicode (UTF-8) 
 10. From the main Word menu select Finish & Merge, Edit Individual Documents, Merge All 
 
 Your labels will open in a new document!
