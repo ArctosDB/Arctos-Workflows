@@ -1,4 +1,4 @@
-# Instructions
+# Instructions - MSB Loan Header Mail Merge
 
 To create an invoice headerusing the CSV: loan_data_dump report and the associated MSWord Mail Merge Template, perform the following:
 
