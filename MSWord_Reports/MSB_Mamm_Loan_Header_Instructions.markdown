@@ -2,7 +2,7 @@
 
 To create an invoice headerusing the CSV: loan_data_dump report and the associated MSWord Mail Merge Template, perform the following:
 
-1. Download the <a href="https://github.com/ArctosDB/Arctos-Workflows/blob/main/MSWord_Reports/MSB_Mamm_Loan_Header.docx" class="external" target="_blank">Template for merge in MSWord</a> and Save it to a location of your choosing. 
+1. Download the <a href="https://github.com/ArctosDB/Arctos-Workflows/blob/main/MSWord_Reports/MSB_Mamm_Loan_Header_Mail_Merge.docx" class="external" target="_blank">Template for merge in MSWord</a> and Save it to a location of your choosing. 
 2. In Arctos, search for the loan for which you wish to print documents 
 3. From the results select Arctos Reporter 
 4. Find the CSV: loan_data_dump report, then select open. A file will download. You can use it from Downloads or save to a location of your choosing. Do not open and re-save the file with Excel as this can cause issues with the encoding of special characters! 
