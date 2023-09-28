@@ -1,4 +1,4 @@
-![image](https://github.com/ArctosDB/Arctos-Workflows/assets/47402809/d2d89cdc-2714-4665-8267-8668b7d1d4e1)---
+![image](https://github.com/ArctosDB/Arctos-Workflows/assets/47402809/61d08314-094d-43dc-a162-3c79c89a3130)![image](https://github.com/ArctosDB/Arctos-Workflows/assets/47402809/d2d89cdc-2714-4665-8267-8668b7d1d4e1)---
 name: NMMNH Locality Bulkload
 about: Steps required to bulkload new localities for the New Mexico Museum of Natural
   History and Science Paleontology Collection. Best used for a sequential group of
@@ -45,6 +45,7 @@ assignees: ''
    - [ ] "georeference source":
       - encumbered localities - record original coordinate and methods used to convert or georeference
       - public localities - enter "geography spatial data"
+   - [ ] "data management history" - "entered into locality ledger", agent is person who entered, date is date entered.
    - For Attributes used only by encumbered localities each attribute will only be entered once under the research locality name.
    - [ ] "locality access"
      - attribute_value: fill in "private"
