@@ -1,6 +1,6 @@
 # Instructions
 
-To create labels using the UWBM_mammal_box_large_csv report and its associated MSWord Mail Merge Template, perform the following:
+To create labels using the MSB:Para_vial_label_csv report and its associated MSWord Mail Merge Template, perform the following:
 
 1. Download the <a href="https://github.com/ArctosDB/Arctos-Workflows/blob/main/MSWord_Reports/UWBM_Mamm%20large%20mammal%20box.docx" class="external" target="_blank">Template for merge in MSWord</a> and Save it to a location of your choosing.  
 2. In Arctos, search for the records that need labels 
