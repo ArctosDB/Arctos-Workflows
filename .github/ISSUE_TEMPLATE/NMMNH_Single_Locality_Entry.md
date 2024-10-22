@@ -24,9 +24,8 @@ assignees: ''
        - Determiner = New Mexico Museum of Natural History and Science
        - Date = date entered into locality ledger
      - Site Collector Number(s)
-- [ ] Site Found - enter one attribute for the person and one attribute for the date. If more than one person found the site, add an attribute for each person. 
-     - Value = verbatim name of person who found the site
-     - Value = verbatim site found date
+- [ ] Site Found
+     - Value = verbatim name of person who found the site and verbatim site found date
      - Determiner = Arctos Agent name of person who found the site
      - Date = Date the site was found in the format YYYY-MM-DD 
 - [ ] Chronostratigraphy - The most precise known level of chronostratigraphy should be chosen. Chronostratigraphy is hierarchical, so only the most precise value is required.
