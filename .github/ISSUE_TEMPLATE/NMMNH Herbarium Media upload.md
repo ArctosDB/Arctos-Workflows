@@ -23,13 +23,18 @@ about: Template for uploadeding Media and Media metadata to Arctos, specifically
 - Follow the example worksheet below or one of the previous uploaded files to fill it out for upload
 - Find: /corral/projects/arctos/web
 - Replace: https://web.corral.tacc.utexas.edu/arctos
+- Check the catalog number column for duplicates
 - Once file is filled out, save as a CSV-8
 
 **Arctos Upload**
 - Go to [Bulkload Media](https://arctos.database.museum/loaders/BulkloadMedia.cfm)
 - Upload CSV file
-- Review the data
-- 
+- Review users data and review to make sure it looks right
+- Then select "Check All and set Status to Autoload"
+- Then click "Change status for checked records"
+- Then go to Component Loader Status and see if the priority needs to change.
+
+**SEINet**
 
 
 
