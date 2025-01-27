@@ -1,11 +1,11 @@
 ---
 name: NMMNHS Herbarium Media upload
-about: Template for uploadeding Media and Media metadata to Arctos, specifically for Herbarium Specimens. Currently this is a draft. Arctos Project Number 10004420
+about: Template for uploading Media and Media metadata to Arctos, specifically for Herbarium Specimens. Currently this is a draft. Arctos Project Number 10004420
 ---
 
 **Create Metadata sheet**
 - Navigate N: Herbarium folder under Arctos
-- [ ] Create folder with "Meta Data Herbarium yyyy-mm-dd" with todays date
+- [ ] Create folder with "Meta Data Herbarium yyyy-mm-dd" with today's date
 - [ ] Create a new excel worksheet, Copy the headers from one of the previous uploaded files and paste into the new excel sheet
 - [ ] Save the file as an excel worksheet with the same name as the folder
 
@@ -40,5 +40,5 @@ about: Template for uploadeding Media and Media metadata to Arctos, specifically
 
 
 
-Example worksheet: [Meta Data Herbarim Template.xlsx](https://github.com/user-attachments/files/18254802/Meta.Data.Herbarim.Template.xlsx)
+Example worksheet: [Meta Data Herbarium Template.xlsx](https://github.com/user-attachments/files/18254802/Meta.Data.Herbarim.Template.xlsx)
 
