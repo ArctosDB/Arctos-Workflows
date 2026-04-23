@@ -1,4 +1,4 @@
-![image](https://github.com/ArctosDB/Arctos-Workflows/assets/47402809/61d08314-094d-43dc-a162-3c79c89a3130)![image](https://github.com/ArctosDB/Arctos-Workflows/assets/47402809/d2d89cdc-2714-4665-8267-8668b7d1d4e1)---
+---
 name: NMMNH Locality Bulkload
 about: Steps required to bulkload new localities for the New Mexico Museum of Natural
   History and Science Paleontology Collection. Best used for a sequential group of
