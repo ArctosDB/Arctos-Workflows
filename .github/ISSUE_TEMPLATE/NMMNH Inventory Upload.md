@@ -33,10 +33,10 @@ Almost all specimens are stored in one location. We can use this fact to catch i
 - [ ] Use [bulkload container tool](https://arctos.database.museum/loaders/bulkCreateContainer.cfm). Use the previous upload file as a template. Before filling in the barcodes, check to [make sure the next barcode is open](https://arctos.database.museum/findContainer.cfm).
 
 **Move Containers**
-- [ ] Use [batch scan](https://arctos.database.museum/batchScan.cfm?action=loadCSV) to move the new containers into their parent containers. Use the create containers file to create the move containers file. Before uploading, open the file in notepad and delete the last blank line. Check [find container](https://arctos.database.museum/findContainer.cfm) to make sure this was successful.
+- [ ] Use [move container](https://arctos.database.museum/loaders/move_container.cfm) to move the new containers into their parent containers. Use the create containers file to create the move containers file. Check [find container](https://arctos.database.museum/findContainer.cfm) to make sure this was successful.
 
 **Move Parts into Containers**
-- [ ] Download the template from [bulkload parts into containers](https://arctos.database.museum/tools/BulkloadPartContainer.cfm?action=ld).
+- [ ] Download the template from [bulkload parts into containers](https://arctos.database.museum/loaders/BulkloadPartContainer.cfm).
 - [ ] Add part IDs and barcodes to the the template.
    - Open the inventory and create container spreadsheets.
    - For each drawer:
@@ -48,7 +48,7 @@ Almost all specimens are stored in one location. We can use this fact to catch i
       - Download parts list
       - Copy the part IDs into the template spreadsheet.
       - Fill down the barcodes.
-- [ ] After adding all drawers, bulkload the template to [bulkload parts into containers](https://arctos.database.museum/tools/BulkloadPartContainer.cfm?action=ld).
+- [ ] After adding all drawers, bulkload the template to [bulkload parts into containers](https://arctos.database.museum/loaders/BulkloadPartContainer.cfm).
 
 **Add to Project**
 - [ ] Create a [comma list](https://arctos.database.museum/DataServices/listerizer.cfm) of all specimens and add them to the [Inventory Project](https://arctos.database.museum/project/10003513)
