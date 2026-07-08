@@ -16,7 +16,6 @@ assignees: ''
    - [ ] Fill in specific locality for the encumbered versions of the locality. For the public versions of the locality enter "Specific locality encumbered"
    - [ ] Fill in coordinates, maximum error distance (15 meters for GPS), and units for the encumbered localities.
    - [ ] Add accession number in remarks if applicable for the encumbered localities.
-   - [ ] In use_geography_polygon fill in "false".
 
 **Create upload file for locality attributes**
    - [ ] Download [template](https://arctos.database.museum/tools/bulkloadLocalityAttributes.cfm?action=ld) and save as an excel file
